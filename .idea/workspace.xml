@@ -1,0 +1,273 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ea7b21b0-9129-4f4b-95ec-434081aa5125" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="Addressbook" type="f1a62948:ProjectNode" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$USER_HOME$/Documents/GitHub" />
+    <option name="UPDATE_TYPE" value="REBASE" />
+  </component>
+  <component name="ProjectId" id="1ZGUd0Pzp12I0cLncT0Mf299M0f" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="extract.method.default.visibility" value="private" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="addressbook.appmanager" />
+      <recent name="Addressbook" />
+    </key>
+  </component>
+  <component name="RunManager" selected="TestNG.GroupCreationTests (1)">
+    <configuration name="TestClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TestClass" />
+      <module name="Addressbook.main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GroupCreationTests (1)" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Addressbook.test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="addressbook.tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="addressbook.tests" />
+      <option name="MAIN_CLASS_NAME" value="addressbook.tests.GroupCreationTests" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GroupCreationTests.groupDeletionTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Addressbook.test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Addressbook.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Addressbook" />
+      <option name="MAIN_CLASS_NAME" value="Addressbook.GroupCreationTests" />
+      <option name="METHOD_NAME" value="groupDeletionTest" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GroupDeletionTests" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Addressbook.test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Addressbook.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Addressbook" />
+      <option name="MAIN_CLASS_NAME" value="Addressbook.GroupDeletionTests" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GroupDeletionTests.groupDeletionTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Addressbook.test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="addressbook.tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="addressbook.tests" />
+      <option name="MAIN_CLASS_NAME" value="addressbook.tests.GroupDeletionTests" />
+      <option name="METHOD_NAME" value="groupDeletionTest" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.GroupCreationTests (1)" />
+        <item itemvalue="TestNG.GroupDeletionTests.groupDeletionTest" />
+        <item itemvalue="Application.TestClass" />
+        <item itemvalue="TestNG.GroupDeletionTests" />
+        <item itemvalue="TestNG.GroupCreationTests.groupDeletionTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ea7b21b0-9129-4f4b-95ec-434081aa5125" name="Default Changelist" comment="" />
+      <created>1584465007591</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1584465007591</updated>
+    </task>
+    <task id="LOCAL-00001" summary="e">
+      <created>1585104078481</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1585104078481</updated>
+    </task>
+    <task id="LOCAL-00002" summary="e">
+      <created>1585105200741</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1585105200741</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$" />
+    </ignored-roots>
+    <MESSAGE value="e" />
+    <option name="LAST_COMMIT_MESSAGE" value="e" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="320" y="93" key="#Notifications" timestamp="1585105219878">
+      <screen x="0" y="23" width="1440" height="812" />
+    </state>
+    <state x="320" y="93" key="#Notifications/0.23.1440.812@0.23.1440.812" timestamp="1585105219878" />
+    <state x="320" y="93" key="#Project_Structure" timestamp="1584984127436">
+      <screen x="0" y="23" width="1440" height="812" />
+    </state>
+    <state x="320" y="93" key="#Project_Structure/0.23.1440.812@0.23.1440.812" timestamp="1584984127436" />
+    <state x="425" y="238" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1584476293354">
+      <screen x="0" y="23" width="1440" height="812" />
+    </state>
+    <state x="425" y="238" key="#com.intellij.fileTypes.FileTypeChooser/0.23.1440.812@0.23.1440.812" timestamp="1584476293354" />
+    <state x="457" y="243" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1584560387412">
+      <screen x="0" y="23" width="1440" height="812" />
+    </state>
+    <state x="457" y="243" key="#com.intellij.ide.util.TreeClassChooserDialog/0.23.1440.812@0.23.1440.812" timestamp="1584560387412" />
+    <state x="423" y="187" key="#com.intellij.refactoring.memberPullUp.PullUpDialog" timestamp="1584717948305">
+      <screen x="0" y="23" width="1440" height="812" />
+    </state>
+    <state x="423" y="187" key="#com.intellij.refactoring.memberPullUp.PullUpDialog/0.23.1440.812@0.23.1440.812" timestamp="1584717948305" />
+    <state x="560" y="360" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1584641226119">
+      <screen x="0" y="23" width="1440" height="812" />
+    </state>
+    <state x="560" y="360" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.23.1440.812@0.23.1440.812" timestamp="1584641226119" />
+    <state x="486" y="294" width="467" height="316" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1584560389017">
+      <screen x="0" y="23" width="1440" height="812" />
+    </state>
+    <state x="486" y="294" width="467" height="316" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.23.1440.812@0.23.1440.812" timestamp="1584560389017" />
+    <state x="436" y="153" key="#com.intellij.refactoring.move.moveMembers.MoveMembersDialog" timestamp="1584560463820">
+      <screen x="0" y="23" width="1440" height="812" />
+    </state>
+    <state x="436" y="153" key="#com.intellij.refactoring.move.moveMembers.MoveMembersDialog/0.23.1440.812@0.23.1440.812" timestamp="1584560463820" />
+    <state x="344" y="33" key="CommitChangelistDialog2" timestamp="1585105200574">
+      <screen x="0" y="23" width="1440" height="812" />
+    </state>
+    <state x="344" y="33" key="CommitChangelistDialog2/0.23.1440.812@0.23.1440.812" timestamp="1585105200574" />
+    <state x="120" y="142" width="1200" height="572" key="DiffContextDialog" timestamp="1585105196990">
+      <screen x="0" y="23" width="1440" height="812" />
+    </state>
+    <state x="120" y="142" width="1200" height="572" key="DiffContextDialog/0.23.1440.812@0.23.1440.812" timestamp="1585105196990" />
+    <state width="1358" height="166" key="GridCell.Tab.0.bottom" timestamp="1585105281721">
+      <screen x="0" y="23" width="1440" height="812" />
+    </state>
+    <state width="1358" height="166" key="GridCell.Tab.0.bottom/0.23.1440.812@0.23.1440.812" timestamp="1585105281721" />
+    <state width="1358" height="166" key="GridCell.Tab.0.bottom/0.23.1440.814@0.23.1440.814" timestamp="1584563208925" />
+    <state width="1358" height="166" key="GridCell.Tab.0.center" timestamp="1585105281720">
+      <screen x="0" y="23" width="1440" height="812" />
+    </state>
+    <state width="1358" height="166" key="GridCell.Tab.0.center/0.23.1440.812@0.23.1440.812" timestamp="1585105281720" />
+    <state width="1358" height="166" key="GridCell.Tab.0.center/0.23.1440.814@0.23.1440.814" timestamp="1584563208924" />
+    <state width="1358" height="166" key="GridCell.Tab.0.left" timestamp="1585105281720">
+      <screen x="0" y="23" width="1440" height="812" />
+    </state>
+    <state width="1358" height="166" key="GridCell.Tab.0.left/0.23.1440.812@0.23.1440.812" timestamp="1585105281720" />
+    <state width="1358" height="166" key="GridCell.Tab.0.left/0.23.1440.814@0.23.1440.814" timestamp="1584563208924" />
+    <state width="1358" height="166" key="GridCell.Tab.0.right" timestamp="1585105281720">
+      <screen x="0" y="23" width="1440" height="812" />
+    </state>
+    <state width="1358" height="166" key="GridCell.Tab.0.right/0.23.1440.812@0.23.1440.812" timestamp="1585105281720" />
+    <state width="1358" height="166" key="GridCell.Tab.0.right/0.23.1440.814@0.23.1440.814" timestamp="1584563208924" />
+    <state x="495" y="53" width="450" height="742" key="RefactorJ.IntroduceParameterObject" timestamp="1584625655934">
+      <screen x="0" y="23" width="1440" height="812" />
+    </state>
+    <state x="495" y="53" width="450" height="742" key="RefactorJ.IntroduceParameterObject/0.23.1440.812@0.23.1440.812" timestamp="1584625655934" />
+    <state x="221" y="23" key="SettingsEditor" timestamp="1585105083739">
+      <screen x="0" y="23" width="1440" height="812" />
+    </state>
+    <state x="221" y="23" key="SettingsEditor/0.23.1440.812@0.23.1440.812" timestamp="1585105083739" />
+    <state x="503" y="352" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1585105210511">
+      <screen x="0" y="23" width="1440" height="812" />
+    </state>
+    <state x="503" y="352" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.23.1440.812@0.23.1440.812" timestamp="1585105210511" />
+    <state x="458" y="188" width="542" height="484" key="extract.method.dialog" timestamp="1584640372788">
+      <screen x="0" y="23" width="1440" height="812" />
+    </state>
+    <state x="458" y="188" width="542" height="484" key="extract.method.dialog/0.23.1440.812@0.23.1440.812" timestamp="1584640372788" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Addressbook$GroupCreationTests__1_.ic" NAME="GroupCreationTests (1) Coverage Results" MODIFIED="1584641675535" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>addressbook.tests.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/Addressbook$ABLogin.ic" NAME="ABLogin Coverage Results" MODIFIED="1584479954060" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>Addressbook.*</FILTER>
+    </SUITE>
+  </component>
+</project>
